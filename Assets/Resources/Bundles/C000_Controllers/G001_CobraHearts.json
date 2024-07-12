@@ -1,0 +1,34 @@
+{
+    "Key" :  "CobraHearts",
+    "DisplayName": "Cobra Hearts",
+    "Rule": {
+        "RowCount": 5,
+        "ColCount": 3,
+        "Paylines": [
+            "1,1,1,1,1",
+            "0,0,0,0,0",
+            "2,2,2,2,2"
+        ],
+        "Reels": {
+            "PaidSpin": [
+                "A,A,K,TEN,DANCER,K,J,TEN,HEADDRESS",
+                "K,K,K,DRUM,DRUM,Q,J,TEN",
+                "J,J,J,DANCER,ZILLS",
+                "Q,Q,Q,ZILLS,DANCER,TEN",
+                "TEN,TEN,TEN,NINE,DANCER"
+            ],
+            "FreeSpin": [
+                "J,J,J,Q,Q,Q",
+                "TEN,TEN,TEN",
+                "A,A,A,",
+                "DANCER,DANCER,DANCER,DANCER,DANCER,J",
+                "HEADDRESS,HEADDRESS,HEADDRESS,HEADDRESS,HEADDRESS,HEADDRESS"
+            ]
+        }
+    },
+    "ClientData": {
+        "IsVertical": false,
+        "Bundle": "G001_CobraHearts",
+        "Prefab": "SlotMain"
+    }
+}

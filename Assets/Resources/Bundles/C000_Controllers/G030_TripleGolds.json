@@ -1,0 +1,26 @@
+{
+    "Key" :  "TripleGolds",
+    "DisplayName": "Triple Golds",
+    "Rule": {
+        "RowCount": 3,
+        "ColCount": 5,
+        "Paylines": [
+            "2,2,2",
+            "0,0,0",
+            "4,4,4"
+        ],
+        "SymbolNames" : "BAR1,BAR2,BAR3,CHERRY,SEVEN,WILD,JACKPOT,BLANK",
+        "Reels": {
+            "PaidSpin": [
+                "BAR1,BLANK,BAR2,BLANK,BAR3,BLANK,CHERRY,BLANK",
+                "BAR1,BLANK,BAR2,BLANK,BAR3,BLANK,CHERRY,BLANK",
+                "BAR1,BLANK,BAR2,BLANK,BAR3,BLANK,CHERRY,BLANK"
+            ]
+        }
+    },
+    "ClientData": {
+        "IsVertical": false,
+        "Bundle": "G030_TripleGolds",
+        "Prefab": "SlotMain"
+    }
+}
